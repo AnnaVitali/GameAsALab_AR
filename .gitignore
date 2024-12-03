@@ -21,7 +21,8 @@ yarn-error.log*
 */MemoryCaptures/
 */Recordings/
 */Assets/Plugins/Editor/JetBrains*
-.vs/
+*.vscode/
+*.vs/
 .gradle/
 ExportedObj/
 .consulo/
