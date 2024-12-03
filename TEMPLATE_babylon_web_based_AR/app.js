@@ -4,7 +4,7 @@ const express = require("express");
 var path = require("path");
 const app = express();
 const port = 3000;
-const host = '192.168.184.12'//webXR works only on https connection, insert your IP address here instead of localhost 
+const host = 'your IP'//webXR works only on https connection, insert your IP address here instead of localhost 
 
 https.createServer(
 	{
