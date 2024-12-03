@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="game_as_a_lab_marker_rgb" size="0.210000 0.056594" />
+  </Tracking>
+</QCARConfig>
