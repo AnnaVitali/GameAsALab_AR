@@ -41,7 +41,9 @@ GameAsALab_AR is a repository that shows how to use Unity or JavaScript to creat
    ```
 
 ### Setting Up the Unity Project
-1. Open Unity Hub and add the `TEMPLATE_unity_app_based_AR` directory as a new project.
-2. Open the project in Unity Editor.
-3. Import the Vuforia packages from the `RESOURCES_unity_app_based_AR` directory.
+**NOTE**: The Unity Version used to create the project is _2022.3.26_ 
+
+1. Open Unity Hub and add the `TEMPLATE_unity_app_based_AR` directory as a new project,
+2. Open the project in Unity Editor,
+3. Import the Vuforia packages from the `RESOURCES_unity_app_based_AR` directory,
 4. Configure the AR settings and build the project for your target platform.
